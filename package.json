@@ -1,0 +1,40 @@
+{
+  "name": "logseq-tenset-theme",
+  "version": "1.0.0",
+  "description": "Beautiful theme made for smart contract auditors",
+  "scripts": {
+    "build": "tsx scripts/build.tsx"
+  },
+  "author": "Tenset",
+  "logseq": {
+    "themes": [
+      {
+        "name": "Tenset light",
+        "url": "build/tenset-theme.css",
+        "description": "Beautiful light theme made for smart contract auditors",
+        "mode": "light"
+      },
+      {
+        "name": "Tenset dark",
+        "url": "build/tenset-theme.css",
+        "description": "Beautiful dark theme made for smart contract auditors",
+        "mode": "dark"
+      }
+    ],
+    "id": "logseq-tenset-theme"
+  },
+  "dependencies": {
+    "sass": "^1.63.6"
+  },
+  "devDependencies": {
+    "@types/color": "^3.0.3",
+    "@types/fs-extra": "^11.0.1",
+    "color": "^4.2.3",
+    "fs-extra": "^11.1.1",
+    "theme-in-css": "^0.2.2",
+    "tsx": "^3.12.7"
+  },
+  "engines": {
+    "node": "18.15.0"
+  }
+}
