@@ -16,9 +16,18 @@ This is a clean theme for [Logseq](https://github.com/logseq/logseq), optimized 
 
 ## Install
 
+### Official marketplace
+
 - Open Logseq → Plugins → Market Place, install **Tenset Security Theme** plugin
 
 - Open Logseq → Themes, choose your theme
+
+### Manual
+
+1. Enable Logseq developer mode (Settings → Advanced → Developer mode)
+2. Clone this repository
+3. Logseq plugins → Load unpacked plugin → select the folder with cloned repository
+4. Logseq → Themes → Tenset
 
 
 ## How to build
