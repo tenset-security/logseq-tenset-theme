@@ -1,2 +1,5 @@
 node_modules
-build
+
+# Ignore all build files except fonts
+build/*
+!build/*.ttf
