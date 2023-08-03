@@ -12,7 +12,7 @@ This is a clean theme for [Logseq](https://github.com/logseq/logseq), optimized 
 
 ## Screenshots
 
-![Desktop](./media/desktop.png)
+![image](https://github.com/tenset-security/logseq-tenset-theme/assets/65830545/cc836c34-edb5-4112-bb14-c95a8b09212c)
 
 ## Install
 
