@@ -13,6 +13,7 @@ This is a clean theme for [Logseq](https://github.com/logseq/logseq), optimized 
 ## Screenshots
 
 ![image](https://github.com/tenset-security/logseq-tenset-theme/assets/65830545/cc836c34-edb5-4112-bb14-c95a8b09212c)
+![image](https://github.com/tenset-security/logseq-tenset-theme/assets/65830545/82f69f52-de13-4d59-b31f-e94396ecce6b)
 
 ## Install
 
