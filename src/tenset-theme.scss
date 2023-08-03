@@ -344,9 +344,14 @@ html[data-theme="light"] .keyboard-shortcut > code {
 }
 
 /* BULLETS */
+.bullet-container .bullet {
+  width: 5px;
+  height: 5px;
+}
+
 .bullet-closed .bullet {
-  width: 4px;
-  height: 4px;
+  width: 7px;
+  height: 7px;
 }
 
 /* CHECKBOXES */
