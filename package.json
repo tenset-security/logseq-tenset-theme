@@ -10,13 +10,13 @@
     "themes": [
       {
         "name": "Tenset light",
-        "url": "build/tenset-theme.css",
+        "url": "./tenset-theme.css",
         "description": "Beautiful light theme made for smart contract auditors",
         "mode": "light"
       },
       {
         "name": "Tenset dark",
-        "url": "build/tenset-theme.css",
+        "url": "./tenset-theme.css",
         "description": "Beautiful dark theme made for smart contract auditors",
         "mode": "dark"
       }
