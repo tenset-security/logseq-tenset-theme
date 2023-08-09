@@ -25,7 +25,7 @@ jobs:
           mkdir ${{ env.PLUGIN_NAME }}
           npm install
           npm run build
-          cp README.md package.json icon.png build/*.css ${{ env.PLUGIN_NAME }}
+          cp README.md package.json icon.png build/FiraCode-VariableFont_wght.ttf build/Sora-VariableFont_wght.ttf build/*.css ${{ env.PLUGIN_NAME }}
           zip -r ${{ env.PLUGIN_NAME }}.zip ${{ env.PLUGIN_NAME }}
           ls
           echo "::set-output name=tag_name::$(git tag --sort version:refname | tail -n 1)"
